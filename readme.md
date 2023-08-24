@@ -1,3 +1,4 @@
 # Workdwise
 
-Project in Jonas Smedtmann's Ultmiate React Course. Built with Vite + React.
+Project in Jonas Schmedtmann's Ultmiate React Course. Built with Vite + React.
+Requires server running.
